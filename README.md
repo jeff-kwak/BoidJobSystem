@@ -50,5 +50,5 @@ I wish I would have taken the time to put tests around my kooky list implementat
 ## Links and Inspriation from [The Coding Train's, Coding Challenge #124: Flocking Simulation](https://www.youtube.com/watch?v=mhjuuHl6qHM)
 
 * [Craig Reynold's Site Describing the Original Boid Research](https://www.red3d.com/cwr/boids/)
-* [Daniel Shitman's, Nature of Code Book](https://natureofcode.com/book/)
+* [Daniel Shiftman's, Nature of Code Book](https://natureofcode.com/book/)
 * [The Computational Beauty of Nature](https://mitpress.mit.edu/books/computational-beauty-nature)
